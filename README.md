@@ -15,6 +15,7 @@ Below is a curated list of enterprise analyses and frameworks, organized by sub-
 | Resource | Description | Link |
 |----------|-------------|------|
 | **Azure Enterprise AI Platform Analysis** | Comprehensive technical comparison of Power Platform + Copilot Studio vs Azure-native solutions for enterprise AI workflows processing PII data. Includes security analysis, compliance frameworks, implementation roadmaps, and strategic decision criteria based on challenging a vendor's public endpoint approach in a highly regulated industry. | [/azure-enterprise-ai-platform-analysis](/azure-enterprise-ai-platform-analysis) |
+| **Azure RAG Architecture Analysis** | In-depth analysis comparing Azure-native RAG vs. Microsoft Fabric RAG with a critical focus on private network requirements for sensitive data. It highlights Fabric's current limitations (public endpoints) and provides a decision framework for choosing the right architecture based on security, compliance, and speed. | [/azure-enterprise-rag-platform-analysis](/azure-enterprise-rag-platform-analysis) |
 
 ## How to Use
 1. **Browse Resources:** Each sub-folder contains detailed analyses with executive summaries and technical deep-dives.
