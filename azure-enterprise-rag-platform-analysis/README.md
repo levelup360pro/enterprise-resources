@@ -63,7 +63,7 @@ Many enterprises are evaluating Microsoft Fabric for its potential to streamline
 ## Files in This Analysis
 | File | Description |
 |------|-------------|
-| **Azure-native_vs_Fabric_RAG.pdf** | The complete, in-depth analysis with detailed architecture diagrams, comparative tables, risk matrices, and decision frameworks. |
+| [Azure-native_vs_Fabric_RAG.pdf](/azure-enterprise-rag-platform-analysis/Azure-native_vs_Fabric_RAG.pdf) | The complete, in-depth analysis with detailed architecture diagrams, comparative tables, risk matrices, and decision frameworks. |
 
 ## Real-World Application
 This analysis provides the evidence needed to challenge vendor or internal proposals based on accurate technical understanding of Microsoft Fabric's actual private networking capabilities. It directly addresses the common scenario where GraphQL API limitations are overlooked while backend service private connectivity is properly credited. Use this framework to ensure your RAG architecture aligns with your organization's specific risk tolerance and compliance obligations.

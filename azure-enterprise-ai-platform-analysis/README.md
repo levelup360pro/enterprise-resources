@@ -52,9 +52,9 @@ A vendor proposed implementing Power Platform + Copilot Studio via public endpoi
 
 | File | Description |
 |------|-------------|
-| **power-platform-vs-azure-native-analysis.pdf** | Complete analysis with detailed comparisons, and strategic recommendations |
-| **executive-summary.pdf** | Executive summary with key findings and recommendations |
-| **decision-framework.pdf** | Strategic decision criteria and evaluation framework |
+| [power-platform-vs-azure-native-analysis.pdf](/azure-enterprise-ai-platform-analysis/power-platform-vs-azure-native-analysis.pdf) | Complete analysis with detailed comparisons, and strategic recommendations |
+| [executive-summary.pdf](/azure-enterprise-ai-platform-analysis/executive-summary.pdf) | Executive summary with key findings and recommendations |
+| [decision-framework.pdf](/azure-enterprise-ai-platform-analysis/decision-framework.pdf) | Strategic decision criteria and evaluation framework |
 
 ## Real-World Application
 This analysis directly addresses the challenge of vendor recommendations that may not align with enterprise security requirements. The public endpoint approach that triggered this analysis represents a common scenario where rapid deployment priorities can conflict with security best practices in regulated industries.
