@@ -24,7 +24,7 @@ This pattern is built on four foundational enterprise security principles that c
 
 | File/Directory | Description |
 |----------------|-------------|
-| [power-platform-azure-ai-private-integration.pdf](/power-platform-azure-ai-private-integration.pdf)| The full analysis document explaining the pattern, use cases, components, and trade-offs. *(Note: This PDF reflects the initial pattern; the layered architecture described here is the recommended evolution.)* |
+| [power-platform-azure-ai-private-integration.pdf](/power-platform-azure-ai-private-integration/power-platform-azure-ai-private-integration.pdf)| The full analysis document explaining the pattern, use cases, components, and trade-offs. *(Note: This PDF reflects the initial pattern; the layered architecture described here is the recommended evolution.)* |
 
 
 ## Key Implementation Steps & Prerequisites
