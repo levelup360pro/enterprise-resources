@@ -37,7 +37,7 @@ Microsoft offers **4 distinct architectural layers**, not contradictory products
 
 ## Download
 
-📄 **[Microsoft Agent Architecture Clarified (PDF)](./microsoft-agent-architecrure-clarified.pdf)**
+📄 **[Microsoft Agent Architecture Clarified (PDF)](/microsoft-agent-architecture-clarified/microsoft-agent-architecrure-clarified.pdf)**
 
 ## Research Sources
 

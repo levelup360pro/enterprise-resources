@@ -4,7 +4,7 @@ A comprehensive technical assessment of Microsoft Copilot and Google Workspace S
 
 ## Download
 
-📄 **[Download PDF Guide](./copilot_production_readiness_guide.pdf)**
+📄 **[Download PDF Guide](/copilot-production-readiness-guide/copilot_production_readiness_guide.pdf)**
 
 ## Overview
 
